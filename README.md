@@ -1,4 +1,4 @@
-# WB 一键签到 · WB Daily Check-in
+# WorkBuddy 一键签到工具 · WorkBuddy Daily Check-in
 
 > **简体中文** · **English** — 本文档提供中英双语版本，请按语言跳转。
 >
